@@ -19,3 +19,21 @@
 *.exe
 *.out
 *.app
+
+# vs2010
+
+*.sdf
+*.ilk
+*.pdb
+*.ipch
+
+# Debug
+*.obj
+*.manifest
+*.res
+*.lastbuildstate
+*.log
+*.rc
+*.tlog
+*.idb
+
