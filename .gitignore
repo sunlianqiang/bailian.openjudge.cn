@@ -36,4 +36,5 @@
 *.rc
 *.tlog
 *.idb
-
+*.opensdf
+*.cache
